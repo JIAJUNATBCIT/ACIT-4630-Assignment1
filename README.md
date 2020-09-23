@@ -2,7 +2,7 @@
 ### Student: JiaJun Cai
 ### Student#: A00980088
 
-Assignment Link: [Click Here](https://bcit1.gitlab.io/acit-4630/a-1.html)
+Preview of this Markdown file: [Click Here](https://github.com/JIAJUNATBCIT/ACIT-4630-Assignment1)
 
 ![Console](./165959.png)
 
